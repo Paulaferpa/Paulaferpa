@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Paula Fernández
+🚀 Data Analyst | Python | SQL | Power BI | Tableau
 
-<!--
-**Paulaferpa/Paulaferpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about transforming raw data into valuable insights. 
+Currently, I'm expanding my expertise with a Master’s in Data Analytics (2025) and working with tools like Python, SQL, Pandas, Power BI, and Tableau.
 
-Here are some ideas to get you started:
+🔹 Skills & Tools
+Programming & Data Analysis: Python (Pandas, NumPy), SQL
+Data Visualization: Power BI, Tableau, Looker Studio
+Business Intelligence & Reporting
+Process Optimization & Data-driven Decision Making
+📊 My Work
+I specialize in data-driven strategies, optimizing financial and operational performance, and developing interactive dashboards to support business decisions. Check out my latest projects in this repository!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📬 Let’s Connect!
+
+Linkedin: https://www.linkedin.com/in/paulafernandezpaez/
+
+
+
+
+
+
+
+
+
