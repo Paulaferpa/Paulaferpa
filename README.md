@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Paula Fernández
+## 👋 Hi there, I'm Paula Fernández
 🚀 Data Analyst | Python | SQL | Power BI | Tableau
 
 I'm a Data Analyst passionate about transforming raw data into valuable insights. 
